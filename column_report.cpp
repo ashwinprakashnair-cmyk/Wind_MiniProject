@@ -597,7 +597,7 @@ void runColumnReport(vector<TurbineRecord>& master) {
                 op.value1 = minV;
                 op.value2 = maxV;
             } else if (opChoice == 2) {
-                double val = getValidatedDouble("Enter threshold value: ");
+                      double val = getValidatedDouble("Enter threshold value: ");
                 int dir = getValidatedInt("1 for Greater Than, 2 for Less Than: ", 1, 2);
                 op.type = FILTER_THRESHOLD;
                 op.value1 = val;
