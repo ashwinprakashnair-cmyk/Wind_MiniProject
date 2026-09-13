@@ -22,7 +22,7 @@ telemetry data by column, entirely through a terminal interface.
 <tr><td><b>Domain</b></td><td>Green Energy — Small Wind Turbine Analytics</td></tr>
 <tr><td><b>Core Language</b></td><td>C++ (Arrays, Linked Lists, Stack)</td></tr>
 <tr><td><b>Primary Dataset</b></td><td><code>swt_august_2022_week_16_22.csv</code> (9,614 real telemetry records, 1-minute resolution)</td></tr>
-<tr><td><b>Data Type</b></td><td>Real-world SCADA data (not synthetic)</td></tr>
+<tr><td><b>Data Type</b></td><td>Actual SCADA Data</td></tr>
 <tr><td><b>Interface</b></td><td>Terminal only — no GUI/dashboard</td></tr>
 <tr><td><b>Level</b></td><td>College Mini-Project</td></tr>
 </table>
